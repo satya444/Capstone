@@ -12,8 +12,13 @@ sudo pip install -r requirements.txt
 Libraries mentioned in the requirements.txt are
 
 opencv-python - to read and write to a csv file
+
 matplotlib & seaborn - for creating the plots
+
 numpy - for performing numerical operations
+
 scikit-learn - for machine learning algorithms
+
 geopy - for calculating distance based on latitude and longitute
+
 xgboost - a gradient boosting machine learning algorithm
